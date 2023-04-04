@@ -76,6 +76,25 @@ blockquote {
     text-align: left;
 }
 
+footer {
+    display:flex;
+    justify-content: space-around;
+    background-color: #eee;
+}
+
+.contact-link a,
+.contact-link {
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.contact-link a:hover {
+    text-decoration:underline;
+}
+
+
+
 @media (max-width: 460px) {
     #main {
         margin: 0;
