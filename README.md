@@ -1,8 +1,11 @@
+🔔 🔔 🔔
+---
+
 # Tribute Page for Leonardo da Vinci
 
-## [Link to project GitHub Page](https://elenacoder.github.io/tribute-page-leonardo-da-vinci/)
 
-## Objective
+## About
+
 The objective of this project is to build a tribute page for Leonardo da Vinci, one of the most celebrated artists and thinkers of the Renaissance era. The page should provide an overview of his life, work, and achievements, and showcase some of his most iconic paintings and drawings.
 
 
@@ -18,5 +21,8 @@ The objective of this project is to build a tribute page for Leonardo da Vinci, 
 - Your "#image" should use max-width and height properties to resize responsively, relative to the width of its parent element, without exceeding its original size.
 - Your "img" element should be centered within its parent element.
 
-## Submission
-Once you have completed the tribute page, you can submit it by hosting it on a web server and providing a link to the page in your submission. You can also include the source code for the page in a GitHub repository.
+## Demo
+
+To experience a live demo of the project, you can visit [this link](https://elenacoder.github.io/tribute-page-leonardo-da-vinci/) and explore the projects directly in your web browser.
+
+---
